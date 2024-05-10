@@ -1,2 +1,1 @@
-# 20240510
-# Korea Aerospace Univ
+# OSS class 2004/05/10
