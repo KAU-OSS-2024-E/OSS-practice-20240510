@@ -2,7 +2,7 @@
 //practice
 //practice2
 <<<<<<< HEAD
-//local +
+//local + 2
 =======
 //github 
 >>>>>>> origin/junyoung
